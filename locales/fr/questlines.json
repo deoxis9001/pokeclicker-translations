@@ -7,11 +7,11 @@
     "step 3.1219228208": "Combattez 10 Pokémons sur la route 2. Cliquez sur la Route 2 sur la carte pour y aller et commencez le combat.",
     "step 4.0061756390": "Retournez dans la ville de Bourg Palette et dites au revoir à maman.",
     "step 5.1503948342": "Achetez 10 Poké Balls.",
-    "step 6.2081090144": "Parlez au Vieux Monsieur dans la ville de Jadielle pour en apprendre plus sur la capture. ",
+    "step 6.2081090144": "Parlez au Vieux Monsieur dans la ville de Jadielle pour en apprendre plus sur la capture.",
     "step 7.1163928124": "Utilisez ce que vous avez appris pour capturer 5 [[pokemon::Pidgey]]. Parlez au Vieux Monsieur si vous voulez vous en rappelez.",
     "step 8.0423645430": "Achetez le Ticket du donjon à la boutique dans la ville de Jadielle.",
     "step 9.0474373239": "Collectez 50 Jetons de donjon en (re)capturant un Pokémon, puis terminez le donjon : Forêt de Jadielle.",
-    "step 10.0811454536": "Combattez l'arène d'Argenta. Cliquez sur la ville sur la carte pour y accéder, puis sur le bouton Arène pour commencer le combat. "
+    "step 10.0811454536": "Combattez l'arène d'Argenta. Cliquez sur la ville sur la carte pour y accéder, puis sur le bouton Arène pour commencer le combat."
   },
   "Team Rocket": {
     "displayName.0741208585": "Team Rocket",
@@ -19,7 +19,7 @@
     "step 1.1963409303": "Des activités illégales sont en cours. Terminez le Casino de Céladopole.",
     "step 2.1639352651": "La Team Rocket a occupé Silph Co. Terminez le donjon : Silph Co. dans la ville de Safrania pour trouver la carte d'accès.",
     "step 3.1377652403": "Blue se met sur ton chemin. Battez-le dans le donjon : Silph Co.",
-    "step 4.0586315752": "La Team Rocket occupe la Silph Co. Terminez le donjon : Silph Co. à Safrania à nouveau pour faire échouer leurs plans. ",
+    "step 4.0586315752": "La Team Rocket occupe la Silph Co. Terminez le donjon : Silph Co. à Safrania à nouveau pour faire échouer leurs plans.",
     "step 5.1767666076": "Si vous faites tombez le leader de la Rocket une nouvelle fois, il ne reviendront sûrement plus ici. Terminez le donjon : Silph Co."
   },
   "Bill's Grandpa Treasure Hunt": {
@@ -37,22 +37,22 @@
     "step 10.2111121563": "Grand-père Bill veut que vous capturiez un Pokémon avec un corps jaune et les joues rouges.",
     "step 11.0798225758": "Montrez [[pokemon::Pikachu]] à Grand-père Bill.",
     "step 12.0123186284": "Grand-père Bill veut avoir un combat avec vous.",
-    "step 13.0167923376": "Parlez à Grand-père Bill une dernière fois. "
+    "step 13.0167923376": "Parlez à Grand-père Bill une dernière fois."
   },
   "Mining Expedition": {
     "displayName.1822233903": "Expédition de minage",
     "description.0393231618": "Explore les mines",
-    "step 1.0147063903": "Achetez le Kit d'expédition à la boutique de Cramois'île. ",
-    "step 2.0155178981": "Collectez tout les trésors enfouis, 5 fois dans les mines. "
+    "step 1.0147063903": "Achetez le Kit d'expédition à la boutique de Cramois'île.",
+    "step 2.0155178981": "Collectez tout les trésors enfouis, 5 fois dans les mines."
   },
   "Bill's Errand": {
     "displayName.0558808161": "La mission de Bill",
     "description.0299812462": "Bill vous a demandé de l’accompagner aux Îles Sevii afin d’établir une connexion avec Kanto.",
     "step 1.0966794650": "Utilisez le bouton de voyage inter-régionnal en haut de la carte pour allez au Île Sevii et parler à Celio sur l'ile 1.",
-    "step 2.0148854616": "Parlez au propriétaire de la boutique de jeux sur l'île 2 à propos de la météorite. ",
-    "step 3.0858835684": "Un gang en moto a envahit l'île 3. Ils ne vous laisseront pas continuer jusqu'à la forêt de Baie. Battez les motards. ",
+    "step 2.0148854616": "Parlez au propriétaire de la boutique de jeux sur l'île 2 à propos de la météorite.",
+    "step 3.0858835684": "Un gang en moto a envahit l'île 3. Ils ne vous laisseront pas continuer jusqu'à la forêt de Baie. Battez les motards.",
     "step 4.1371391855": "Battez le leader du gang à moto.",
-    "step 5.1587720809": "Trouvez Lostelle. Terminez le donjon : Forêt de Baie. ",
+    "step 5.1587720809": "Trouvez Lostelle. Terminez le donjon : Forêt de Baie.",
     "step 6.0561336780": "Lostelle a été retrouver. Retournez voir le propriétaire de la boutique de jeux.",
     "step 7.0568827479": "Livrez la météorite à Celio sur l'île 1."
   },
@@ -68,9 +68,9 @@
     "step 1.0964636946": "Terminez le donjon : Phare d'Oliville dans la ville d'Oliville.",
     "step 2.0253531602": "Parlez à Jasmine dans le phare d'Oliville.",
     "step 3.1707171554": "Parlez au pharmacien dans la ville d'Irisia.",
-    "step 4.1371245231": "Le pharmacien dit qu'il a besoin de temps pour le médicament de [[pokemon::Ampharos]]. Battez l'arène d'Irisia en attendant. ",
+    "step 4.1371245231": "Le pharmacien dit qu'il a besoin de temps pour le médicament de [[pokemon::Ampharos]]. Battez l'arène d'Irisia en attendant.",
     "step 5.1707171554": "Parlez au pharmacien dans la ville d'Irisia.",
-    "step 6.0905126454": "Donnez à [[pokemon::Ampharos]] son médicament dans le phare d'Oliville. ",
+    "step 6.0905126454": "Donnez à [[pokemon::Ampharos]] son médicament dans le phare d'Oliville.",
     "step 7.0253531602": "Parlez à Jasmine dans le phare d'Oliville."
   },
   "Team Rocket Again": {
@@ -110,7 +110,7 @@
     "description.1837762212": "Les filles en kimono de Rosalia ont besoin d'aide.",
     "step 1.0389709620": "Parlez à la fille en Kimono Zuki dans la ville de Mauville.",
     "step 2.0899081379": "Faites éclore 25 oeufs.",
-    "step 3.1055114235": "Parlez à la fille en kimono Naoko dans les Bois aux Chênes. ",
+    "step 3.1055114235": "Parlez à la fille en kimono Naoko dans les Bois aux Chênes.",
     "step 4.0850828738": "Terminez le donjon : Bois aux Chênes pour conduire Naoko en sécurité.",
     "step 5.0329117151": "Parlez à la fille en kimono Miki au théatre dans la ville de Rosalia.",
     "step 6.0373003952": "Parlez à la fille en kimono Sayo dans la route de glace.",
@@ -133,7 +133,7 @@
     "step 1.1986079826": "Parlez au Professeur Chêne dans la ville de Bourg Palette.",
     "step 2.1547142573": "Parlez au Professeur Flora dans son labo sur les îles Sevii.",
     "step 3.1457941137": "Livrez la GS Ball au Professeur Chêne dans la ville de Bourg Palette.",
-    "step 4.0422084776": "Livrez la GS Ball à Fargas dans la ville d'Ecorcia à Johto. ",
+    "step 4.0422084776": "Livrez la GS Ball à Fargas dans la ville d'Ecorcia à Johto.",
     "step 5.1000750423": "Parlez à nouveau à Fargas après être devenu champion de Johto."
     "step 6.0877483470": "Parlez au professeur Chêne dans la ville d'Ecorcia.",
     "step 7.0622788299": "Enquêtez sur le sanctuaire dans les Bois aux Chênes",
