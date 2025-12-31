@@ -185,7 +185,6 @@
   },
   "Celio's Errand": {
     "displayName.0857073898": "La course de Celio",
-    "displayName.0857073898": "La course de Celio",
     "description.1441283841": "Celio vous a demandé de l'aider à établir une connexion entre les îles Sevii et Hoenn.",
     "step 1.1681248697": "Parlez à Celio sur l'Île 1 à Sevii.",
     "step 2.2007987072": "Écoutez les fantassins de la Team Rocket au Mont Braise.",
@@ -251,6 +250,7 @@
     "step 5.0360146674": "Butler a ressuscité [[pokemon::Meta Groudon]] au cratère du Mont Chemnée. Attrapez [[pokemon::Meta Groudon]]"
   },
   "Shadows in the Desert": {
+    "displayName.0298551922": "Ombres dans le désert",
     "description.1725155577": "Explorez Rhode et découvrez l'origine des Pokémon Ombres.",
     "step 1.0126291075": "Voyagez jusqu'à Rhode et explorez la Station Service.",
     "step 2.0084287810": "Combattez Billy.",
